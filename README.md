@@ -1,16 +1,24 @@
-### Hi there 👋
+### Yo man. guess what? EscapistKid here!! 👋 
 
-<!--
-**EscapistKid/EscapistKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I always code some shitty things but cool
 
-Here are some ideas to get you started:
+## WTF? what is EscapistKid?🤔
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=recalltang&count_private=true&show_icons=true&theme=tokyonight">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> - EscapistKid is a small developer from china\
+> \
+> Programing languages: \
+> Java, C++, Python, Lua, JS, etc..
+
+> <s>But I'm lazy. I have many unfinished projects. XDD</s>\
+> <s>TAT</s>\
+> 🙏\
+> Just keep my mind😄
+---
+### How to find me 📑
+- [Bilibili](https://space.bilibili.com/327349365)
+- [Official E-Mail](escapistkid@foxmail.com)
+- [Gitee](https://gitee.com/MOG_TANG)
+- [Alternative github](https://github.com/recalltang)
+
+### Support me! 🥰

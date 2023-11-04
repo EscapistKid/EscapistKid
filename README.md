@@ -13,7 +13,7 @@
 > <s>But I'm lazy. I have many unfinished projects. XDD</s>\
 > <s>TAT</s>\
 > 🙏\
-> Just keep my mind😄
+> Peace😄
 ---
 ### How to find me 📑
 - [Bilibili](https://space.bilibili.com/327349365)

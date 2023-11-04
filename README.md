@@ -17,7 +17,6 @@
 ---
 ### How to find me 📑
 - [Bilibili](https://space.bilibili.com/327349365)
-- [Official E-Mail](escapistkid@foxmail.com)
 - [Gitee](https://gitee.com/MOG_TANG)
 - [Alternative github](https://github.com/recalltang)
 
